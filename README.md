@@ -4,7 +4,7 @@
 
 🎓 **Education**   Fourth Year Computer Science student at KMITL (Bachelor of Science in Computer Science).
 ### 🎯 Current Focus & Goals
-* **Objective:** Actively seeking **Master's degree opportunities** and *Software Engineering or Associated with Tech roles abroad**.
+* **Objective:** Actively seeking **Master's degree opportunities** and **Software Engineering or Associated with Tech roles abroad**.
 * **Preferred Locations:** 
   * <img src="https://flagcdn.com/24x18/us.png" width="18" height="13" alt="US Flag" /> United States (San Francisco Bay Area / Silicon Valley, CA)
   * <img src="https://flagcdn.com/24x18/jp.png" width="18" height="13" alt="Japan Flag" /> Japan (Tokyo, Kanagawa, Kyoto, Osaka)
