@@ -1,4 +1,4 @@
-# Hi there, I'm [Kongphop Worawutkasem] 👋 Call me Del.
+# Hi there, I'm [Kongphop Worawutkasem] 👋 Pls Call me Del.
 
 🚀 **Passionate**  about Full-Stack Engineering, Cloud Architecture, Scalable Systems and AI/ML Integration.
 
@@ -55,11 +55,7 @@
 
 ---
 
-### 📌 Featured Repositories
-*(Tip: นอกเหนือจากใน README คุณสามารถใช้ปุ่ม "Customize your pins" ด้านล่างของหน้า Profile เพื่อ Pin 4-6 Repos ที่เด่นที่สุดได้ด้วย)*
-
----
-
 ### 📫 Connect With Me
 - 💼 LinkedIn: [www.linkedin.com/in/kongphop-worawutkasem-a1559a238](www.linkedin.com/in/kongphop-worawutkasem-a1559a238)
 - ✉️ Email: `kongphop.wor@gmail.com`
+- 📍Location: Bangkok, Thailand
