@@ -1,7 +1,16 @@
-# Hi there, I'm [Kongphop Worawutkasem] 👋 Pls Call me Del.
+# Hi there, I'm Kongphop Worawutkasem 👋 Pls Call me Del.
 
 🚀 **Passionate**  about Full-Stack Engineering, Cloud Architecture, Scalable Systems and AI/ML Integration.
-
+🎓 **Education**   Fourth Year Computer Science student at KMITL (Bachelor of Science in Computer Science).
+### 🎯 Current Focus & Goals
+* **Objective:** Actively seeking **Master's degree opportunities** and *Software Engineering or Associated with Tech roles abroad**.
+* **Preferred Locations:** 
+  * 🇺🇸 United States (San Francisco Bay Area / Silicon Valley, CA)
+  * 🇯🇵 Japan (Tokyo, Kanagawa, Kyoto, Osaka)
+* **Languages:** 
+  * Thai (Native)
+  * English (CEFR B2 – Professional Working Proficiency)
+  * Japanese (日本語 – Learning, ~JLPT N4)
 ---
 
 ### 🛠️ Tech Stack & Tools I have ever use.
