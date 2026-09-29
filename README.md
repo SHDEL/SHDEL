@@ -1,15 +1,16 @@
 # Hi there, I'm Kongphop Worawutkasem 👋 Pls Call me Del.
 
 🚀 **Passionate**  about Full-Stack Engineering, Cloud Architecture, Scalable Systems and AI/ML Integration.
+
 🎓 **Education**   Fourth Year Computer Science student at KMITL (Bachelor of Science in Computer Science).
 ### 🎯 Current Focus & Goals
 * **Objective:** Actively seeking **Master's degree opportunities** and *Software Engineering or Associated with Tech roles abroad**.
 * **Preferred Locations:** 
-  * 🇺🇸 United States (San Francisco Bay Area / Silicon Valley, CA)
-  * 🇯🇵 Japan (Tokyo, Kanagawa, Kyoto, Osaka)
+  * <img src="https://flagcdn.com/24x18/us.png" width="18" height="13" alt="US Flag" /> United States (San Francisco Bay Area / Silicon Valley, CA)
+  * <img src="https://flagcdn.com/24x18/jp.png" width="18" height="13" alt="Japan Flag" /> Japan (Tokyo, Kanagawa, Kyoto, Osaka)
 * **Languages:** 
   * Thai (Native)
-  * English (CEFR B2 – Professional Working Proficiency)
+  * English (CEFR B2)
   * Japanese (日本語 – Learning, ~JLPT N4)
 ---
 
